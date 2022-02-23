@@ -1,0 +1,15 @@
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\bin\Debug\net6.0\ex3.exe
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\bin\Debug\net6.0\ex3.deps.json
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\bin\Debug\net6.0\ex3.runtimeconfig.json
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\bin\Debug\net6.0\ex3.dll
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\bin\Debug\net6.0\ex3.pdb
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\obj\Debug\net6.0\ex3.csproj.AssemblyReference.cache
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\obj\Debug\net6.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\obj\Debug\net6.0\ex3.AssemblyInfoInputs.cache
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\obj\Debug\net6.0\ex3.AssemblyInfo.cs
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\obj\Debug\net6.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\obj\Debug\net6.0\ex3.dll
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\obj\Debug\net6.0\refint\ex3.dll
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\obj\Debug\net6.0\ex3.pdb
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\obj\Debug\net6.0\ex3.genruntimeconfig.cache
+C:\Users\julmartins\Documents\GitHub\aula2\exercicio3\ex3\ex3\obj\Debug\net6.0\ref\ex3.dll
